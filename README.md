@@ -13,8 +13,8 @@ IR reciever
 
 ##Changelog
 
-###v1.0
+###v1.0###
 *It works
-###Issues
+###Issues###
 *Not that responsive, sometimes it feels stuck
 
