@@ -17,4 +17,5 @@ IR reciever
 * It works
 ### Issues
 * Not that responsive, sometimes it feels stuck
-
+* Needs more comments and explaining
+* It may have typos
