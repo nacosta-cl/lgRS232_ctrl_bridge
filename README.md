@@ -5,16 +5,16 @@ My cat pissed so much on my tv, that the ir reciever and touch control panel sto
 
 Love my cat
 
-##Hardware
+#Hardware
 
 Arduino, any atmega variant
 TTL to rs232 adapter (MAX3232
 IR reciever
 
-##Changelog
+#Changelog
 
-###v1.0###
+#v1.0
 *It works
-###Issues###
+#Issues
 *Not that responsive, sometimes it feels stuck
 
